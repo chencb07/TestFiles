@@ -5,5 +5,5 @@ try to
 u 
 creating a new branch is qucik.
 Creating a new branch is quick and simple.
-Fast forward test
+bug fixed
 
